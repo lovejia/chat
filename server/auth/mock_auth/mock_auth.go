@@ -10,8 +10,8 @@ import (
 	time "time"
 
 	gomock "github.com/golang/mock/gomock"
-	auth "github.com/tinode/chat/server/auth"
-	types "github.com/tinode/chat/server/store/types"
+	auth "github.com/lovejia/chat/server/auth"
+	types "github.com/lovejia/chat/server/store/types"
 )
 
 // MockAuthHandler is a mock of AuthHandler interface

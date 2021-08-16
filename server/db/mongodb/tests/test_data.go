@@ -3,8 +3,8 @@ package tests
 import (
 	"time"
 
-	"github.com/tinode/chat/server/auth"
-	"github.com/tinode/chat/server/store/types"
+	"github.com/lovejia/chat/server/auth"
+	"github.com/lovejia/chat/server/store/types"
 )
 
 type authRecord struct {

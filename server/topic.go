@@ -14,11 +14,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/tinode/chat/server/auth"
-	"github.com/tinode/chat/server/logs"
-	"github.com/tinode/chat/server/push"
-	"github.com/tinode/chat/server/store"
-	"github.com/tinode/chat/server/store/types"
+	"github.com/lovejia/chat/server/auth"
+	"github.com/lovejia/chat/server/logs"
+	"github.com/lovejia/chat/server/push"
+	"github.com/lovejia/chat/server/store"
+	"github.com/lovejia/chat/server/store/types"
 )
 
 // Topic is an isolated communication channel

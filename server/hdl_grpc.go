@@ -14,8 +14,8 @@ import (
 	"io"
 	"time"
 
-	"github.com/tinode/chat/pbx"
-	"github.com/tinode/chat/server/logs"
+	"github.com/lovejia/chat/pbx"
+	"github.com/lovejia/chat/server/logs"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
 	"google.golang.org/grpc/keepalive"

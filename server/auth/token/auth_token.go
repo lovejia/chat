@@ -10,9 +10,9 @@ import (
 	"errors"
 	"time"
 
-	"github.com/tinode/chat/server/auth"
-	"github.com/tinode/chat/server/store"
-	"github.com/tinode/chat/server/store/types"
+	"github.com/lovejia/chat/server/auth"
+	"github.com/lovejia/chat/server/store"
+	"github.com/lovejia/chat/server/store/types"
 )
 
 // authenticator is a singleton instance of the authenticator.

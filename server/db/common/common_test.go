@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tinode/chat/server/store/types"
+	"github.com/lovejia/chat/server/store/types"
 )
 
 func TestSelectEarliestUpdatedSubs(t *testing.T) {

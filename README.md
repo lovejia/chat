@@ -22,7 +22,7 @@ See [general instructions](./INSTALL.md) or [docker-specific instructions](./doc
 
 * Read [API documentation](docs/API.md) and [FAQ](docs/faq.md). Read configuration instructions contained in the [`tinode.conf`](./server/tinode.conf) file.
 * For support, general questions, discussions post to [https://groups.google.com/d/forum/tinode](https://groups.google.com/d/forum/tinode).
-* For bugs and feature requests [open an issue](https://github.com/tinode/chat/issues/new/choose).
+* For bugs and feature requests [open an issue](https://github.com/lovejia/chat/issues/new/choose).
 
 ## Helping out
 
@@ -40,15 +40,15 @@ A [public Tinode service](https://web.tinode.co/) is now available. You can use 
 
 ### Web
 
-TinodeWeb, a single page web app, is available at https://web.tinode.co/ ([source](https://github.com/tinode/webapp/)). See screenshots below. Currently available in English, Simplified Chinese, Traditional Chinese, Korean, Russian, Spanish. More translations are welcome.
+TinodeWeb, a single page web app, is available at https://web.tinode.co/ ([source](https://github.com/lovejia/webapp/)). See screenshots below. Currently available in English, Simplified Chinese, Traditional Chinese, Korean, Russian, Spanish. More translations are welcome.
 
 ### Android
 
-[Tinode for Android](https://play.google.com/store/apps/details?id=co.tinode.tindroidx) a.k.a Tindroid is stable and functional ([source](https://github.com/tinode/tindroid)). See the screenshots below. A [debug APK](https://github.com/tinode/tindroid/releases/latest) is also provided for convenience. Currently available in English, Simplified Chinese, Traditional Chinese, Korean, Russian, Spanish. More translations are welcome.
+[Tinode for Android](https://play.google.com/store/apps/details?id=co.tinode.tindroidx) a.k.a Tindroid is stable and functional ([source](https://github.com/lovejia/tindroid)). See the screenshots below. A [debug APK](https://github.com/lovejia/tindroid/releases/latest) is also provided for convenience. Currently available in English, Simplified Chinese, Traditional Chinese, Korean, Russian, Spanish. More translations are welcome.
 
 ### iOS
 
-[Tinode for iOS](https://apps.apple.com/app/reference-to-tinodios-here/id123) a.k.a. Tinodios is stable and functional ([source](https://github.com/tinode/ios)). See the screenshots below. Currently available in English, Simplified Chinese, Traditional Chinese, Spanish. More translations are welcome.
+[Tinode for iOS](https://apps.apple.com/app/reference-to-tinodios-here/id123) a.k.a. Tinodios is stable and functional ([source](https://github.com/lovejia/ios)). See the screenshots below. Currently available in English, Simplified Chinese, Traditional Chinese, Spanish. More translations are welcome.
 
 
 ## Demo/Sandbox
@@ -74,9 +74,9 @@ When you register a new account you are asked for an email address to send valid
 ### Supported
 
 * Multiple platforms:
-  * [Android](https://github.com/tinode/tindroid/)
-  * [iOS](https://github.com/tinode/ios)
-  * [Web](https://github.com/tinode/webapp/)
+  * [Android](https://github.com/lovejia/tindroid/)
+  * [iOS](https://github.com/lovejia/ios)
+  * [Web](https://github.com/lovejia/webapp/)
   * Scriptable [command line](tn-cli/)
 * One-on-one and group messaging.
 * Channels with an unlimited number of read-only subscribers.
@@ -138,7 +138,7 @@ More translations are [welcome](docs/translations.md). Particularly interested i
 
 ## Screenshots
 
-### [Android](https://github.com/tinode/tindroid/)
+### [Android](https://github.com/lovejia/tindroid/)
 
 <p align="center">
 <img src="docs/android-contacts.png" alt="Android screenshot: list of chats" width=270 />
@@ -146,19 +146,19 @@ More translations are [welcome](docs/translations.md). Particularly interested i
 <img src="docs/android-account.png" alt="Android screenshot: account settings" width=270 />
 </p>
 
-### [iOS](https://github.com/tinode/ios)
+### [iOS](https://github.com/lovejia/ios)
 
 <p align="center">
 <img src="docs/ios-contacts.png" alt="iOS screenshot: list of chats" width=207 /> <img src="docs/ios-chat.png" alt="iOS screenshot: one conversation" width=207 /> <img src="docs/ios-acc-personal.png" alt="iOS screenshot: account settings" width="207" />
 </p>
 
-### [Desktop Web](https://github.com/tinode/webapp/)
+### [Desktop Web](https://github.com/lovejia/webapp/)
 
 <p align="center">
   <img src="docs/web-desktop.jpg" alt="Desktop web: full app" width=810 />
 </p>
 
-### [Mobile Web](https://github.com/tinode/webapp/)
+### [Mobile Web](https://github.com/lovejia/webapp/)
 
 <p align="center">
   <img src="docs/web-mob-contacts.png" alt="Mobile web: contacts" width=250 /> <img src="docs/web-mob-chat.png" alt="Mobile web: chat" width=250 /> <img src="docs/web-mob-info.png" alt="Mobile web: topic info" width=250 />

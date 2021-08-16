@@ -32,7 +32,7 @@ fi
 
 echo "Releasing $version"
 
-GOSRC=${GOPATH}/src/github.com/tinode
+GOSRC=${GOPATH}/src/github.com/lovejia
 
 pushd ${GOSRC}/chat > /dev/null
 

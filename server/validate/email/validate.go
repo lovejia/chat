@@ -20,9 +20,9 @@ import (
 	textt "text/template"
 	"time"
 
-	"github.com/tinode/chat/server/logs"
-	"github.com/tinode/chat/server/store"
-	t "github.com/tinode/chat/server/store/types"
+	"github.com/lovejia/chat/server/logs"
+	"github.com/lovejia/chat/server/store"
+	t "github.com/lovejia/chat/server/store/types"
 	i18n "golang.org/x/text/language"
 )
 

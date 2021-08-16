@@ -12,11 +12,11 @@ import (
 	"strings"
 	"time"
 
-	_ "github.com/tinode/chat/server/db/mongodb"
-	_ "github.com/tinode/chat/server/db/mysql"
-	_ "github.com/tinode/chat/server/db/rethinkdb"
-	"github.com/tinode/chat/server/store"
-	jcr "github.com/tinode/jsonco"
+	_ "github.com/lovejia/chat/server/db/mongodb"
+	_ "github.com/lovejia/chat/server/db/mysql"
+	_ "github.com/lovejia/chat/server/db/rethinkdb"
+	"github.com/lovejia/chat/server/store"
+	jcr "github.com/lovejia/jsonco"
 )
 
 type configType struct {

@@ -16,7 +16,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/tinode/chat/server/logs"
+	"github.com/lovejia/chat/server/logs"
 )
 
 func (sess *Session) sendMessageLp(wrt http.ResponseWriter, msg interface{}) bool {

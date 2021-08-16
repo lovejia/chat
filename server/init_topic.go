@@ -11,10 +11,10 @@ package main
 import (
 	"strings"
 
-	"github.com/tinode/chat/server/auth"
-	"github.com/tinode/chat/server/logs"
-	"github.com/tinode/chat/server/store"
-	"github.com/tinode/chat/server/store/types"
+	"github.com/lovejia/chat/server/auth"
+	"github.com/lovejia/chat/server/logs"
+	"github.com/lovejia/chat/server/store"
+	"github.com/lovejia/chat/server/store/types"
 )
 
 // topicInit reads an existing topic from database or creates a new topic

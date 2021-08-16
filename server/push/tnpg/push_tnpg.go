@@ -10,10 +10,10 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/tinode/chat/server/logs"
-	"github.com/tinode/chat/server/push"
-	"github.com/tinode/chat/server/push/fcm"
-	"github.com/tinode/chat/server/store"
+	"github.com/lovejia/chat/server/logs"
+	"github.com/lovejia/chat/server/push"
+	"github.com/lovejia/chat/server/push/fcm"
+	"github.com/lovejia/chat/server/store"
 )
 
 const (

@@ -11,7 +11,7 @@ import (
 	"runtime/pprof"
 	"strings"
 
-	"github.com/tinode/chat/server/logs"
+	"github.com/lovejia/chat/server/logs"
 )
 
 var pprofHttpRoot string
