@@ -23,7 +23,7 @@ import (
 	gh "github.com/gorilla/handlers"
 
 	// For stripping comments from JSON config
-	jcr "github.com/lovejia/jsonco"
+	jcr "github.com/tinode/jsonco"
 
 	// Authenticators
 	"github.com/lovejia/chat/server/auth"

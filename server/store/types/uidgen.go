@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"encoding/binary"
 
-	sf "github.com/lovejia/snowflake"
+	sf "github.com/tinode/snowflake"
 	"golang.org/x/crypto/xtea"
 )
 

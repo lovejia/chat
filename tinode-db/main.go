@@ -16,7 +16,7 @@ import (
 	_ "github.com/lovejia/chat/server/db/mysql"
 	_ "github.com/lovejia/chat/server/db/rethinkdb"
 	"github.com/lovejia/chat/server/store"
-	jcr "github.com/lovejia/jsonco"
+	jcr "github.com/tinode/jsonco"
 )
 
 type configType struct {

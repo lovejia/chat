@@ -20,6 +20,6 @@ This adapter requires you to obtain your own credentials from Goole Firebase. If
 ### iOS and Android
 
 1. If you are using an Android client, add `google-services.json` to [Tindroid](/tinode/tindroid/) by following instructions at https://developers.google.com/android/guides/google-services-plugin and recompile the client. You may also optionally submit it to Google Play Store.
-See more info at https://github.com/lovejia/tindroid/#push_notifications
+See more info at https://github.com/tinode/tindroid/#push_notifications
 2. If you are using an iOS client, add `GoogleService-Info.plist` to [Tinodios](/tinode/ios/) by following instructions at https://firebase.google.com/docs/cloud-messaging/ios/client) and recompile the client. You may optionally submit the app to Apple AppStore.
-See more info at https://github.com/lovejia/ios/#push_notifications
+See more info at https://github.com/tinode/ios/#push_notifications

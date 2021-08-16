@@ -42,11 +42,11 @@ Tinode웹은 단일 페이지의 웹으로 https://web.tinode.co/ ([원본](http
 
 ### 안드로이드
 
-Tindroid라고 불리는 [안드로이드 버전의 Tinode](https://play.google.com/store/apps/details?id=co.tinode.tindroidx) 는 안정적으로 가동됩니다.  ([원본](https://github.com/lovejia/tindroid)).  아래에 있는 스크린 샷을 참고하세요. 편의를 위해 [디버그 APK](https://github.com/lovejia/tindroid/releases/latest)도 제공합니다. 현재 영어, 중국어 간체, 러시아어를 지원합니다. 더 많은 번역을 환영합니다.
+Tindroid라고 불리는 [안드로이드 버전의 Tinode](https://play.google.com/store/apps/details?id=co.tinode.tindroidx) 는 안정적으로 가동됩니다.  ([원본](https://github.com/tinode/tindroid)).  아래에 있는 스크린 샷을 참고하세요. 편의를 위해 [디버그 APK](https://github.com/tinode/tindroid/releases/latest)도 제공합니다. 현재 영어, 중국어 간체, 러시아어를 지원합니다. 더 많은 번역을 환영합니다.
 
 ### iOS
 
-Tinodios라고 불리는 [iOS 버전의 Tinode](https://apps.apple.com/app/reference-to-tinodios-here/id123) 안정적으로 가동됩니다.([원본](https://github.com/lovejia/ios)). 아래에 있는 스크린샷을 참고하세요. 현재 영어와 중국어 간체를 지원합니다. 더 많은 번역을 환영합니다.
+Tinodios라고 불리는 [iOS 버전의 Tinode](https://apps.apple.com/app/reference-to-tinodios-here/id123) 안정적으로 가동됩니다.([원본](https://github.com/tinode/ios)). 아래에 있는 스크린샷을 참고하세요. 현재 영어와 중국어 간체를 지원합니다. 더 많은 번역을 환영합니다.
 
 
 ## 데모/샌드박스
@@ -70,7 +70,7 @@ alice, bob, carol, dave, frank 중 하나로 로그인할 수 있습니다. 비�
 
 ### 지원 기능
 
-* [Android](https://github.com/lovejia/tindroid/), [iOS](https://github.com/lovejia/ios), [web](https://github.com/lovejia/webapp/), 그리고 [command line](tn-cli/) 클라이언트.
+* [Android](https://github.com/tinode/tindroid/), [iOS](https://github.com/tinode/ios), [web](https://github.com/lovejia/webapp/), 그리고 [command line](tn-cli/) 클라이언트.
 * 1대1 메시징.
 * 모든 구성원의 접근 권한을 가진 그룹 메시징을 개별적으로 관리한다. 최대 구성원 수는 설정할 수 있다(기본적으로 128명).
 * 다양한 작업에 대한 권한을 가진 항목 액세스 제어
@@ -116,7 +116,7 @@ alice, bob, carol, dave, frank 중 하나로 로그인할 수 있습니다. 비�
 
 ## 스크린샷
 
-### [안드로이드](https://github.com/lovejia/tindroid/)
+### [안드로이드](https://github.com/tinode/tindroid/)
 
 <p align="center">
 <img src="docs/android-contacts.png" alt="Android screenshot: list of chats" width=270 />
@@ -124,7 +124,7 @@ alice, bob, carol, dave, frank 중 하나로 로그인할 수 있습니다. 비�
 <img src="docs/android-account.png" alt="Android screenshot: account settings" width=270 />
 </p>
 
-### [iOS](https://github.com/lovejia/ios)
+### [iOS](https://github.com/tinode/ios)
 
 <p align="center">
 <img src="docs/ios-contacts.png" alt="iOS screenshot: list of chats" width=207 /> <img src="docs/ios-chat.png" alt="iOS screenshot: one conversation" width=207 /> <img src="docs/ios-acc-personal.png" alt="iOS screenshot: account settings" width="207" />

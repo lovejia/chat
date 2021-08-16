@@ -1,4 +1,4 @@
-# Generated Protocol Buffer and gRPC files for [Tinode](https://github.com/lovejia)
+# Generated Protocol Buffer and gRPC files for [Tinode](https://github.com/tinode)
 
 Generated Python code for [gRPC](https://grpc.io/) client and plugins.
 

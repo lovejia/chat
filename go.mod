@@ -15,8 +15,8 @@ require (
 	github.com/nyaruka/phonenumbers v1.0.56
 	github.com/prometheus/client_golang v1.5.1
 	github.com/prometheus/common v0.9.1
-	github.com/lovejia/jsonco v1.0.0
-	github.com/lovejia/snowflake v1.0.0
+	github.com/tinode/jsonco v1.0.0
+	github.com/tinode/snowflake v1.0.0
 	go.mongodb.org/mongo-driver v1.7.0
 	golang.org/x/crypto v0.0.0-20200320181102-891825fb96df
 	golang.org/x/net v0.0.0-20200320220750-118fecf932d8

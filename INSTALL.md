@@ -112,7 +112,7 @@ See [instructions](./docker/README.md)
 
 	DB intializer needs to be run only once per installation. See [instructions](tinode-db/README.md) for more options.
 
-3. Unpack JS client to a directory, for instance `$HOME/tinode/webapp/` by unzipping `https://github.com/lovejia/webapp/archive/master.zip` and `https://github.com/lovejia/tinode-js/archive/master.zip` to the same directory.
+3. Unpack JS client to a directory, for instance `$HOME/tinode/webapp/` by unzipping `https://github.com/lovejia/webapp/archive/master.zip` and `https://github.com/tinode/tinode-js/archive/master.zip` to the same directory.
 
 4. Copy or symlink template directory `$GOPATH/src/github.com/lovejia/chat/server/templ` to `$GOPATH/bin/templ`
 	```
